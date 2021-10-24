@@ -58,7 +58,7 @@
                             <goal>check</goal>
                         </goals>
                         <configuration><rules><rule>
-                            <element>CLASS</element>
+                            <element>METHOD</element>
                             <limits>
                                 <limit>
                                     <counter>LINE</counter>
